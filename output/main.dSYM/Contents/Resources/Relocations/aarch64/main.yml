@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/raissaparente/Documents/04.ADS/4 SEMESTRE/ESTRUTURA DE DADOS/Atividade 01 - Listas/output/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _criarLista, symObjAddr: 0x0, symBinAddr: 0x100003D80, symSize: 0x8 }
+  - { offsetInCU: 0x7E, offset: 0x7E, size: 0x8, addend: 0x0, symName: _criarLista, symObjAddr: 0x0, symBinAddr: 0x100003D80, symSize: 0x8 }
+  - { offsetInCU: 0x97, offset: 0x97, size: 0x8, addend: 0x0, symName: _inserirLista, symObjAddr: 0x8, symBinAddr: 0x100003D88, symSize: 0x48 }
+  - { offsetInCU: 0xDB, offset: 0xDB, size: 0x8, addend: 0x0, symName: _imprimirLista, symObjAddr: 0x50, symBinAddr: 0x100003DD0, symSize: 0x70 }
+  - { offsetInCU: 0x10D, offset: 0x10D, size: 0x8, addend: 0x0, symName: _verificarVazia, symObjAddr: 0xC0, symBinAddr: 0x100003E40, symSize: 0x3C }
+  - { offsetInCU: 0x135, offset: 0x135, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xFC, symBinAddr: 0x100003E7C, symSize: 0xB8 }
+...
